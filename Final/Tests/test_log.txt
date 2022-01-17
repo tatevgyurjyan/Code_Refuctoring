@@ -1,0 +1,24 @@
+1640724863.631598 - INFO - 
+
+1640724863.631769 - INFO - ====== WebDriver manager ======
+1640724863.654115 - INFO - Current google-chrome version is 96.0.4664
+1640724863.654422 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1640724863.821557 - INFO - Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_linux64.zip
+1640724865.563644 - INFO - Driver has been saved in cache [/home/tatevik/.wdm/drivers/chromedriver/linux64/96.0.4664.45]
+1640724868.369275 - INFO - -------test_search_existing_course_starts---------
+1640724871.080400 - INFO - The element was successfully presented
+1640724872.590820 - INFO - The element was successfully found and clicked
+1640724872.603798 - INFO - The element was successfully presented
+1640724872.666435 - INFO - The data was successfully sent
+1640724872.678583 - INFO - The element was successfully presented
+1640724872.732057 - INFO - The data was successfully sent
+1640724872.744423 - INFO - The element was successfully presented
+1640724872.832896 - INFO - The element was successfully found and clicked
+1640724876.003198 - INFO - The element was successfully presented
+1640724876.020127 - INFO - User's name is Tatevik G
+1640724876.020338 - INFO - Tatevik is logged in
+1640724876.032975 - INFO - The element was successfully presented
+1640724876.093540 - INFO - The data was successfully sent
+1640724876.104105 - INFO - The element was successfully presented
+1640724877.602643 - INFO - The data was successfully sent
+1640724878.749784 - INFO - ['COMPLETE SELENIUM WEBDRIVER WITH JAVA BOOTCAMP', 'COMPLETE SELENIUM WEBDRIVER WITH C# - BUILD A FRAMEWORK', 'C# FOR QA AUTOMATION ENGINEERS WITH SELENIUM WEBDRIVER', 'WHAT ARE IMPLICIT AND EXPLICIT WAITS', 'SELENIUM WEBDRIVER BASICS FOR JAVA', 'PAGE OBJECTS IN TEST AUTOMATION']
